@@ -10,7 +10,7 @@ Despite a late start, I'm committed to mastering technology. Specializing in *Ba
 
 Although I am relatively new to *Website Developing*, I bring substantial experience in entry-level data jobs. 
 
-My extensive coursework includes executing scalable database designs for real-world challenges and hands-on data tasks such as *Data Cleaning with R*, *Data Processing* with Python or SSIS* and *Data Visualization using Power BI*. These experiences also  position me as a capable candidate for data analyst roles, ready to apply my skills to extract meaningful insights from complex datasets.
+My extensive coursework includes executing scalable database designs for real-world challenges and hands-on data tasks such as *Data Cleaning with R*, *Data Processing with Python or SSIS* and *Data Visualization using Power BI*. These experiences also  position me as a capable candidate for data analyst roles, ready to apply my skills to extract meaningful insights from complex datasets.
 
 ## Currently, I'm 🎯
 - Enrolled in Management Information System major at National Economics University.
