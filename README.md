@@ -2,21 +2,23 @@
 
 **`Lifelong learner (Student/Developer/Sports Engthusiast)`**
 
-I'm a **Backend Developer** with a foundation in Management Information Systems, my goal is to craft **reliable** and **high-performance** products that leave a lasting impact.
+## About Me 👋
 
-## About me 👋
+I'm a **FrontEnd Developer** currently focused on deepening my knowledge and skills in Frontend Development. My long-term goal is to progressively explore Backend Development, aiming to become a **Fullstack Developer**, and eventually build a strong foundation for more advanced **Computer Science** concepts.
 
-Despite a late start, I'm committed to mastering technology. Specializing in *Backend Development*, I dedicate my efforts to crafting efficient solutions. Drawing from my experience in *Database Design*, I approach each project with a keen eye for detail, ensuring the precision and quality of the data.
+## My Journey 🚀
 
-Although I am relatively new to *Website Developing*, I bring substantial experience in entry-level data jobs. 
+Starting my career with a strong interest in Frontend Development, I am dedicated to crafting intuitive, responsive, and user-friendly web applications. While my expertise lies in the Frontend, I’m laying the groundwork to expand into Backend Development in the future, driven by a desire to gain a holistic understanding of software development.
 
-My extensive coursework includes executing scalable database designs for real-world challenges and hands-on data tasks such as *Data Cleaning with R*, *Data Processing with Python or SSIS* and *Data Visualization using Power BI*. These experiences also  position me as a capable candidate for data analyst roles, ready to apply my skills to extract meaningful insights from complex datasets.
+I believe in continuous learning and growth, and I approach challenges with curiosity and determination. My focus remains on mastering the essential skills required for each step of my journey, ensuring I build a solid base for future advancements in the tech field.
 
-## Currently, I'm 🎯
-- Enrolled in Management Information System major at National Economics University.
-- Delving deep into Backend Development.
-- Exploring the nuances of a Data Engineering career.
-- Actively seeking an internship position in Backend Developmentm Data Engineering, and Data Analysis
+## Currently, I'm 🎯  
+
+- Deeply focused on improving my **Frontend Development** skills.  
+- Exploring foundational concepts of **Backend Development** for future learning.  
+- Building a roadmap to transition towards becoming a **Fullstack Developer**.  
+- Preparing for advanced **Computer Science** learning to enhance my career trajectory.
+
 
 ## My Tech Stack 👨‍💻
 
